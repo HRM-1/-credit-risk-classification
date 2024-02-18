@@ -1,1 +1,2 @@
 # -credit-risk-classification
+This project focuses on analyzing the health of loans using the provided data, aiming to predict which loans are more likely to be collected successfully. It employs two machine learning models and regression techniques to achieve this goal. The results and conclusions are presented in a comprehensive report, summarizing the findings and insights gained from the analysis.
